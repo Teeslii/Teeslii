@@ -10,6 +10,12 @@
  During the development process, both uncovering a new version of my code and learning new things feed my sense of discovery. <br> <br>
  I'm in the <a href="https://sisterslab.co/">SistersLab</a> and <a href="https://www.kadinyazilimci.com/">Kadın yazılımcı</a> community.  <br>
 
+<br/> 
+
+<h3 align="left">My Blog </h3>
+
+<a href="https://medium.com/@teslime/i%CC%87ngilizceyi-hayat%C4%B1ma-nas%C4%B1l-dahil-ettim-ea23a327a9c2"> <p>"İngilizceyi hayatıma nasıl dahil ettim?"</p> </a>
+
 <p align="center">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
