@@ -14,7 +14,7 @@
 <h3 align="left">My Blog </h3>
 
  <p>I recently wrote a blog post about <a href="https://medium.com/@teslime/i%CC%87ngilizceyi-hayat%C4%B1ma-nas%C4%B1l-dahil-ettim-ea23a327a9c2"> how I incorporated English into my life</a>.</p> 
-
+<a href="https://medium.com/@teslime/yolda-mutlu-olmak-f168e6f9c47e">Yolda Mutlu Olmak</a>
 
 
 
