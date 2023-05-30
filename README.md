@@ -1,19 +1,21 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!;I+am+Teslime.&center=true&size=25">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Heeeey!;I'm+Teslime.&center=true&size=25">
   </a>
 </h1>
 
 
  🥢Laughing, being on the road and making new discoveries are among the passions of my life. 💛 <br> 
  🥢I am planning to progress as a Back End Developer in my career. I'm developing and learning on Web Api with .NET.  <br> 
+ 🥢I take part in the open source project called <a href="https://www.linkedin.com/company/hypance/">Hypance</a> as the team leader. <br>
  🥢During the development process, both uncovering a new version of my code and learning new things feed my sense of discovery. <br> 
  🥢I'm in the <a href="https://sisterslab.co/">SistersLab</a> and <a href="https://www.kadinyazilimci.com/">Kadın yazılımcı</a> community.  
 
 
 <h3 align="left">My Blog </h3>
 
- <p>I recently wrote a blog post about <a href="https://medium.com/@teslime/i%CC%87ngilizceyi-hayat%C4%B1ma-nas%C4%B1l-dahil-ettim-ea23a327a9c2"> how I incorporated English into my life</a>.</p> 
+ <p>The blog I wrote about <a href="https://medium.com/@teslime/i%CC%87ngilizceyi-hayat%C4%B1ma-nas%C4%B1l-dahil-ettim-ea23a327a9c2"> how I incorporated English into my life</a>. [TR]</p> 
+ <p> The blog I wrote about <a href="https://medium.com/@teslime/yolda-mutlu-olmak-f168e6f9c47e">being happy on the road. </a>[TR] </p> 
 
 
 
