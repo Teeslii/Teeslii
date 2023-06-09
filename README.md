@@ -6,7 +6,7 @@
 
 
  🥢Laughing, being on the road and making new discoveries are among the passions of my life. 💛 <br> 
- 🥢I am planning to progress as a Back End Developer in my career. I'm developing and learning on Web Api with .NET.  <br> 
+ 🥢I'm freelance. I'm developing Web Api | .NET.  <br> 
  🥢I take part in the open source project called <a href="https://www.linkedin.com/company/hypance/">Hypance</a> as the team leader. <br>
  🥢During the development process, both uncovering a new version of my code and learning new things feed my sense of discovery. <br> 
  🥢I'm in the <a href="https://sisterslab.co/">SistersLab</a> and <a href="https://www.kadinyazilimci.com/">Kadın yazılımcı</a> community.  
